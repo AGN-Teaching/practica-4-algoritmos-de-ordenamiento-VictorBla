@@ -2,7 +2,8 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13579506)
 # Práctica 4: Algoritmos de ordenamiento
 ## Resumen de los resultados:
-![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-VictorBla/assets/151650061/612f7682-6f6c-4af1-9182-a868c77cc001)
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-VictorBla/assets/151650061/4e856d0c-305a-4cc6-b01c-c2e8cfef318f)
+
 
 ## Graficas de los resultados:
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-VictorBla/assets/151650061/51d2d611-b7fe-49b1-9dc6-029cd5ba64b6)
